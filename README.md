@@ -1,3 +1,4 @@
 # demo--repo
-this is my first git repository
-palak gupta
+This is my first Git repository
+<br>
+Author-Palak Gupta
